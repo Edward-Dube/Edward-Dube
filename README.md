@@ -37,7 +37,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edward-Dube&show_icons=true&count_private=true)
+
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Edward-Dube)
 
 <!--
 **Edward-Dube/Edward-Dube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
