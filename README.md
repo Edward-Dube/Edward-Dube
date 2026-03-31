@@ -34,6 +34,10 @@
 ## 📫 Connect with Me
 - LinkedIn: (www.linkedin.com/in/edward-dube-)
 
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edward-Dube&show_icons=true)
 
 <!--
 **Edward-Dube/Edward-Dube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
