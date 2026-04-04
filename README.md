@@ -22,6 +22,13 @@
 
 👉 [View Project](https://github.com/Edward-Dube/Sales-Analysis.git)
 
+### 🔹 SQL Data Exploration
+- Cleaned and transformed a real-world layoffs dataset using SQL (SQLite)
+- Performed exploratory data analysis using aggregations, GROUP BY, and window functions
+- Identified key trends across industries, companies, and countries
+
+👉 [View Project](https://github.com/Edward-Dube/SQL-Data-Exploration-Project.git)
+
 ---
 
 ## 🚀 Currently Learning
