@@ -1,4 +1,4 @@
-# Hello World, I'm Eddie 👋
+# Hello World, I'm Edward 👋
 
 🎓 IT Graduate | Aspiring Data Analyst  
 📊 Passionate about turning data into actionable insights  
