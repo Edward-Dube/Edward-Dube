@@ -6,23 +6,25 @@
 ---
 
 ## 🔧 Skills
-- Python (Pandas, Matplotlib)
+- Python
 - SQL
 - Power BI
+- Excel
+- ETL
 - Data Analysis & Visualization
 
 ---
 
 ## 📂 Projects
 
-### 🔹 Sales Data Analysis
+### 🔹 Data Analysis & Performance Insights (Sales Dataset)
 - Analyzed retail sales data to uncover trends and insights  
 - Identified top-performing products and regions  
 - Discovered seasonal sales patterns  
 
 👉 [View Project](https://github.com/Edward-Dube/Sales-Analysis.git)
 
-### 🔹 SQL Data Exploration
+### 🔹 SQL Data Exploration & Transformation (Layoffs Dataset)
 - Cleaned and transformed a real-world layoffs dataset using SQL (SQLite)
 - Performed exploratory data analysis using aggregations, GROUP BY, and window functions
 - Identified key trends across industries, companies, and countries
