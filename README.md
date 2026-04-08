@@ -31,6 +31,14 @@
 
 👉 [View Project](https://github.com/Edward-Dube/SQL-Data-Exploration-Project.git)
 
+### 🔹 Power BI Sales Dashboard & Business Insights (Superstore Dataset)
+- Built an interactive Power BI dashboard to analyze sales performance, profitability, and customer segments
+- Created KPIs using DAX (Total Sales, Profit, Orders, Profit Margin) to track business performance
+- Visualized trends, top-performing products, and regional insights using charts, treemaps, and slicers
+- Identified key insights including revenue concentration in top products, regional performance gaps, and seasonal trends
+
+👉 [View Project](https://github.com/Edward-Dube/PowerBI-Sales-Dashboard.git)
+
 ---
 
 ## 🚀 Currently Learning
