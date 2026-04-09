@@ -17,12 +17,13 @@
 
 ## 📂 Projects
 
-### 🔹 Data Analysis & Performance Insights (Sales Dataset)
-- Analyzed retail sales data to uncover trends and insights  
-- Identified top-performing products and regions  
-- Discovered seasonal sales patterns  
+### 🔹 Power BI Sales Dashboard & Business Insights (Superstore Dataset)
+- Built an interactive Power BI dashboard to analyze sales performance, profitability, and customer segments
+- Created KPIs using DAX (Total Sales, Profit, Orders, Profit Margin) to track business performance
+- Visualized trends, top-performing products, and regional insights using charts, treemaps, and slicers
+- Identified key insights, including revenue concentration in top products, regional performance gaps, and seasonal trends
 
-👉 [View Project](https://github.com/Edward-Dube/Sales-Analysis.git)
+👉 [View Project](https://github.com/Edward-Dube/PowerBI-Sales-Dashboard.git)
 
 ### 🔹 SQL Data Exploration & Transformation (Layoffs Dataset)
 - Cleaned and transformed a real-world layoffs dataset using SQL (SQLite)
@@ -31,13 +32,12 @@
 
 👉 [View Project](https://github.com/Edward-Dube/SQL-Data-Exploration-Project.git)
 
-### 🔹 Power BI Sales Dashboard & Business Insights (Superstore Dataset)
-- Built an interactive Power BI dashboard to analyze sales performance, profitability, and customer segments
-- Created KPIs using DAX (Total Sales, Profit, Orders, Profit Margin) to track business performance
-- Visualized trends, top-performing products, and regional insights using charts, treemaps, and slicers
-- Identified key insights including revenue concentration in top products, regional performance gaps, and seasonal trends
+### 🔹 Data Analysis & Performance Insights (Sales Dataset)
+- Analyzed retail sales data to uncover trends and insights  
+- Identified top-performing products and regions  
+- Discovered seasonal sales patterns  
 
-👉 [View Project](https://github.com/Edward-Dube/PowerBI-Sales-Dashboard.git)
+👉 [View Project](https://github.com/Edward-Dube/Sales-Analysis.git)
 
 ---
 
