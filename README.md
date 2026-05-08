@@ -30,7 +30,8 @@ Python-based financial analysis of JSE equities and global benchmarks (SPY), foc
 
 - Calculated returns, volatility, Sharpe ratio, and correlations  
 - Performed portfolio simulation and diversification analysis  
-- Compared South African equities with global market performance  
+- Compared South African equities with global market performance
+
 👉 [View Project](https://github.com/Edward-Dube/Financial-Analysis-Project.git)
 
 ### 🔹 SQL Data Exploration & Transformation (Layoffs Dataset)
