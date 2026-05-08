@@ -25,6 +25,14 @@
 
 👉 [View Project](https://github.com/Edward-Dube/PowerBI-Sales-Dashboard.git)
 
+### 🔹 Financial Market Risk & Return Analysis
+Python-based financial analysis of JSE equities and global benchmarks (SPY), focusing on risk, return, and portfolio performance.
+
+- Calculated returns, volatility, Sharpe ratio, and correlations  
+- Performed portfolio simulation and diversification analysis  
+- Compared South African equities with global market performance  
+👉 [View Project](https://github.com/Edward-Dube/Financial-Analysis-Project.git)
+
 ### 🔹 SQL Data Exploration & Transformation (Layoffs Dataset)
 - Cleaned and transformed a real-world layoffs dataset using SQL (SQLite)
 - Performed exploratory data analysis using aggregations, GROUP BY, and window functions
