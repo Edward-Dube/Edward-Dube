@@ -1,82 +1,56 @@
 # Hello World, I'm Edward 👋
 
-🎓 IT Graduate | Aspiring Data Analyst  
-📊 Passionate about turning data into actionable insights  
+🎓 **IT Graduate | Aspiring Data Analyst**  
+📊 **Passionate about turning raw data into structured, actionable business insights.**
 
 ---
 
-## 🔧 Skills
-- Python
-- SQL
-- Power BI
-- Excel
-- ETL
-- Data Analysis & Visualization
+### 🔧 Skills & Tools
+
+* **Languages & Querying:** Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, MySQL, SQLite)
+* **BI & Data Visualization:** Power BI (DAX, Power Query), Advanced Excel (Pivot Tables, VLOOKUP)
+* **Methodologies:** ETL Pipelines, Data Cleansing, Project Management (Agile/Scrum Frameworks)
 
 ---
 
-## 📂 Projects
+### 📂 Featured Projects
 
-### 🔹 Power BI Sales Dashboard & Business Insights (Superstore Dataset)
-- Built an interactive Power BI dashboard to analyze sales performance, profitability, and customer segments
-- Created KPIs using DAX (Total Sales, Profit, Orders, Profit Margin) to track business performance
-- Visualized trends, top-performing products, and regional insights using charts, treemaps, and slicers
-- Identified key insights, including revenue concentration in top products, regional performance gaps, and seasonal trends
+#### 🔹 [Power BI Sales Dashboard & Business Insights](https://github.com/Edward-Dube/PowerBI-Sales-Dashboard.git) `Power BI` `DAX` `Excel`
+* Built an interactive end-to-end Power BI dashboard analyzing sales performance and profitability using the **Global Superstore Dataset**.
+* Engineered custom dynamic KPIs using **DAX** (Total Sales, YoY Profit, Profit Margin %) to track high-level business health.
+* Visualized regional performance gaps and seasonal trends using advanced slicers, treemaps, and conditional formatting.
+* Formulated data-driven recommendations highlighting revenue concentration risks and underperforming regional territories.
 
-👉 [View Project](https://github.com/Edward-Dube/PowerBI-Sales-Dashboard.git)
+#### 🔹 [Financial Market Risk & Return Analysis](https://github.com/Edward-Dube/Financial-Analysis-Project.git) `Python` `Pandas` `Financial Analytics`
+* Developed a Python-based investment analysis framework assessing financial risk and return metrics for **JSE Equities** and the **S&P 500 (SPY)**.
+* Programmed automated scripts to calculate rolling volatility, asset correlations, and historical **Sharpe Ratios**.
+* Executed portfolio simulations demonstrating the statistical benefits of international diversification for South African investors.
 
-### 🔹 Financial Market Risk & Return Analysis
-Python-based financial analysis of JSE equities and global benchmarks (SPY), focusing on risk, return, and portfolio performance.
+#### 🔹 [SQL Data Exploration & Transformation](https://github.com/Edward-Dube/SQL-Data-Exploration-Project.git) `SQL` `Data Cleaning` `ETL`
+* Executed comprehensive data scrubbing on a messy, real-world **Layoffs Dataset** to eliminate structural anomalies and duplicate entries.
+* Leveraged complex **SQL Window Functions**, CTEs, and aggregate functions to isolate global tech layoff trends.
+* Uncovered granular insights regarding industry-specific vulnerabilities, ranking the hardest-hit sectors by volume and percentage.
 
-- Calculated returns, volatility, Sharpe ratio, and correlations  
-- Performed portfolio simulation and diversification analysis  
-- Compared South African equities with global market performance
-
-👉 [View Project](https://github.com/Edward-Dube/Financial-Analysis-Project.git)
-
-### 🔹 SQL Data Exploration & Transformation (Layoffs Dataset)
-- Cleaned and transformed a real-world layoffs dataset using SQL (SQLite)
-- Performed exploratory data analysis using aggregations, GROUP BY, and window functions
-- Identified key trends across industries, companies, and countries
-
-👉 [View Project](https://github.com/Edward-Dube/SQL-Data-Exploration-Project.git)
-
-### 🔹 Data Analysis & Performance Insights (Sales Dataset)
-- Analyzed retail sales data to uncover trends and insights  
-- Identified top-performing products and regions  
-- Discovered seasonal sales patterns  
-
-👉 [View Project](https://github.com/Edward-Dube/Sales-Analysis.git)
+#### 🔹 [Retail Performance & Demand Insights](https://github.com/Edward-Dube/Sales-Analysis.git) `Excel` `Data Analysis`
+* Conducted descriptive statistical analysis on a retail sales dataset to isolate core growth opportunities.
+* Isolated top-performing product categories and geographic regions using automated **Excel Pivot Tables**.
+* Mapped seasonal purchasing patterns to assist with hypothetical inventory forecasting and demand planning.
 
 ---
 
-## 🚀 Currently Learning
-- Advanced SQL  
-- Power BI dashboards  
-- Data storytelling  
+### 🚀 Continuous Professional Development
+
+* **Deepening Technical Stack:** Advanced SQL Optimization & Power BI Architecture.
+* **Soft Skills:** Data Storytelling for Executive Stakeholders & Data Translation.
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: (www.linkedin.com/in/edward-dube-)
+### 📫 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/edward-dube-](https://linkedin.com)
+* **Portfolio Repo:** [Browse All Project Code](https://github.com)
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Edward-Dube)
-
-<!--
-**Edward-Dube/Edward-Dube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Activity
+![Edward's GitHub Stats](https://vercel.app)
